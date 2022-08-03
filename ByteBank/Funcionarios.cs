@@ -11,10 +11,14 @@ namespace ByteBank
         public string Nome { get; set; }
         public string CPF { get; protected set; }
         public double Salario { get; protected set; }
+        public Funcionario (string cpf)
+        {
+            CPF = cpf;
+        }
         public Funcionario (double salario, string cpf)
         {
-            Salario = salario;
             CPF = cpf;
+            Salario = salario;
         }
         public abstract void AumentarSalario();
         public abstract double GetBonificacao();
