@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace ByteBank
 {
+    // Uma classe abstrata não pode ser criada individualmente, deve-se instanciar as classes herdadas.
+    
+    // Lembrar de implementar as alterações feitas ao longo do curso 3 de c#, além de adicionar outros
+    // detalhes para enriquecer o projeto
     public abstract class Funcionario
     {
         public string Nome { get; set; }
