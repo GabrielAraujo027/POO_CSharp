@@ -10,11 +10,11 @@ namespace ByteBank
     {
         public Diretor(string cpf) : base(5000, cpf)
         {
-            
+
         }
         public override double GetBonificacao()
         {
-            return Salario + (base.GetBonificacao());
+            return Salario *= 1.1;
             // Retorna o salario somado a bonificação padrão para funcionários
         }
         public override void AumentarSalario()
