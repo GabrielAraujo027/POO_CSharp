@@ -8,7 +8,6 @@
     - Todos os cargos da empresa que herdam funcionario
 - Conta Corrente
 - Bonificação
--  
 
 ## ✔ Tecnologias utilizadas
 * ``C#``
