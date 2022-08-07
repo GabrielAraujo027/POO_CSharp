@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj": {}
   },
   "projects": {
@@ -12,9 +13,25 @@
         "projectPath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj",
         "packagesPath": "C:\\Users\\Gabriel Araújo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\obj\\",
+=======
+    "C:\\Users\\gabriel.lira\\Documents\\CSharp3\\ByteBank\\ByteBank.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gabriel.lira\\Documents\\CSharp3\\ByteBank\\ByteBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gabriel.lira\\Documents\\CSharp3\\ByteBank\\ByteBank.csproj",
+        "projectName": "ByteBank",
+        "projectPath": "C:\\Users\\gabriel.lira\\Documents\\CSharp3\\ByteBank\\ByteBank.csproj",
+        "packagesPath": "C:\\Users\\gabriel.lira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.lira\\Documents\\CSharp3\\ByteBank\\obj\\",
+>>>>>>> a5066a9a36b81d2112d5a4c90e6d56e44b77d011
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel Araújo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabriel.lira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,12 +64,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

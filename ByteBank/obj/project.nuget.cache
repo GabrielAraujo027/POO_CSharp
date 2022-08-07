@@ -1,8 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "w/mAraA7T2KgzgKANhZMzxBLlG2rVWszGOJ56cBg5IsFhqITbHDtvjrdYUm2JH0JBavyXGWH7/M3I4iCwqS8TA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "HyHIQem+seyq3ur7mNl11FI2wUdzquBLG9pOTUai41JTWNkycJbGx5yU2VomOCIjAmVbnrw02LyP7Vv5bKqg9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.lira\\Documents\\CSharp3\\ByteBank\\ByteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.lira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+>>>>>>> a5066a9a36b81d2112d5a4c90e6d56e44b77d011
   "logs": []
 }
