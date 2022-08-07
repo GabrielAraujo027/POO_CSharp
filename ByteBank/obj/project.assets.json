@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Araújo\\OneDrive\\Documentos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj",
       "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Documentos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj",
+      "projectPath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\ByteBank.csproj",
       "packagesPath": "C:\\Users\\Gabriel Araújo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Documentos\\CSharp\\heranca_e_interface\\ByteBank\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel Araújo\\OneDrive\\Área de Trabalho\\GABRIEL\\Projetos\\CSharp\\heranca_e_interface\\ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel Araújo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -30,3 +30,19 @@ C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\heranca_e_interface\ByteBank
 C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.pdb
 C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
 C:\Users\Gabriel Araújo\OneDrive\Documentos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\refint\ByteBank.dll
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
+C:\Users\Gabriel Araújo\OneDrive\Área de Trabalho\GABRIEL\Projetos\CSharp\heranca_e_interface\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
