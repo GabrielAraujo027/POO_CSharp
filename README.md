@@ -1,4 +1,4 @@
-# POO C# <br> ![status do projeto](https://img.shields.io/badge/status-Em_desenvolvimento-green) ![GitHub license](https://img.shields.io/badge/License-MIT-green) 
+# POO C# <br> ![status do projeto](https://img.shields.io/badge/status-Em_desenvolvimento-yellow) ![GitHub license](https://img.shields.io/badge/License-MIT-green) 
  Esse será o meu projeto referência na prática da linguagem, portanto, será o mais completo possível. O tema de todo o projeto será o desenvolvimento de um sistema para um banco, o Byte Bank.
  
 ## 🧩 Objetos
